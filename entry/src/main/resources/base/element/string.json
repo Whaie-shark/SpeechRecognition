@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "语音助手模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "语音助手 APP"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "语音助手"
+    },
+    {
+      "name": "permission_mic_reason",
+      "value": "需要使用麦克风进行语音识别"
+    }
+  ]
+}
